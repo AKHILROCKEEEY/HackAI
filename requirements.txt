@@ -1,6 +1,6 @@
-pip install panadas
-pip install numpy
-pip install streamlit
-pip install sklearn
-pip install PIL
-pip install base64
+panadas
+numpy
+streamlit
+sklearn
+PIL
+base64
