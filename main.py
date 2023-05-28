@@ -70,11 +70,11 @@ def main():
         # Print the prediction
         if label == "Non-offensive":
             st.success("The tweet is classified as Non-offensive.")
-            image=Image.open('1(1).png')
+            image=Image.open('2.png')
             st.image(image)
         else:
             st.error("The tweet is classified as Offensive.")
-            image = Image.open('2.png')
+            image = Image.open('1(1).png')
             st.image(image)
 
 
