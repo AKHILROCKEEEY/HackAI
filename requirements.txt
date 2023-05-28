@@ -2,5 +2,4 @@ pandas
 numpy
 streamlit
 sklearn
-PIL
 base64
