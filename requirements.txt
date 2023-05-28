@@ -1,4 +1,4 @@
-panadas
+pandas
 numpy
 streamlit
 sklearn
