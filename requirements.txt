@@ -1,8 +1,6 @@
-import pandas as pd
-import numpy as np
-import streamlit as st
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.utils import class_weight
-from PIL import Image
-import base64
+pip install panadas
+pip install numpy
+pip install streamlit
+pip install sklearn
+pip install PIL
+pip install base64
